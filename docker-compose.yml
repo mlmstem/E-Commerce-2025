@@ -1,0 +1,19 @@
+services:
+  sql:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: sql
+    platform: linux/amd64
+    ports:
+      - "1433:1433"
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: "Password@1"
+    volumes:
+      - ./mssql-data:/var/opt/mssql
+    restart: always
+    hostname: sql
+    user: "1000:1000"
+
+volumes:
+  sql_server:
+    driver: local

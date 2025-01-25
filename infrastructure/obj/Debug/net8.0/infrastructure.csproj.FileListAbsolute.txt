@@ -1,0 +1,15 @@
+/Users/sbchen/Desktop/E-Commerce/Infrastructure/bin/Debug/net8.0/infrastructure.deps.json
+/Users/sbchen/Desktop/E-Commerce/infrastructure/bin/Debug/net8.0/infrastructure.dll
+/Users/sbchen/Desktop/E-Commerce/infrastructure/bin/Debug/net8.0/infrastructure.pdb
+/Users/sbchen/Desktop/E-Commerce/infrastructure/bin/Debug/net8.0/Core.dll
+/Users/sbchen/Desktop/E-Commerce/infrastructure/bin/Debug/net8.0/Core.pdb
+/Users/sbchen/Desktop/E-Commerce/infrastructure/obj/Debug/net8.0/infrastructure.csproj.AssemblyReference.cache
+/Users/sbchen/Desktop/E-Commerce/infrastructure/obj/Debug/net8.0/infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sbchen/Desktop/E-Commerce/infrastructure/obj/Debug/net8.0/infrastructure.AssemblyInfoInputs.cache
+/Users/sbchen/Desktop/E-Commerce/infrastructure/obj/Debug/net8.0/infrastructure.AssemblyInfo.cs
+/Users/sbchen/Desktop/E-Commerce/infrastructure/obj/Debug/net8.0/infrastructure.csproj.CoreCompileInputs.cache
+/Users/sbchen/Desktop/E-Commerce/Infrastructure/obj/Debug/net8.0/infrastr.D83B591B.Up2Date
+/Users/sbchen/Desktop/E-Commerce/infrastructure/obj/Debug/net8.0/infrastructure.dll
+/Users/sbchen/Desktop/E-Commerce/infrastructure/obj/Debug/net8.0/refint/infrastructure.dll
+/Users/sbchen/Desktop/E-Commerce/infrastructure/obj/Debug/net8.0/infrastructure.pdb
+/Users/sbchen/Desktop/E-Commerce/Infrastructure/obj/Debug/net8.0/ref/infrastructure.dll
