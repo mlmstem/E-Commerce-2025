@@ -13,3 +13,4 @@
 /Users/sbchen/Desktop/E-Commerce/infrastructure/obj/Debug/net8.0/refint/infrastructure.dll
 /Users/sbchen/Desktop/E-Commerce/infrastructure/obj/Debug/net8.0/infrastructure.pdb
 /Users/sbchen/Desktop/E-Commerce/Infrastructure/obj/Debug/net8.0/ref/infrastructure.dll
+/Users/sbchen/Desktop/E-Commerce/infrastructure/obj/Debug/net8.0/infrastructure.sourcelink.json
